@@ -13,10 +13,10 @@ imdb top 250 movies
 
 ## Tools Used
 
-sentence-transformers: to create embeddings for movie plots and user queries
+• sentence-transformers: to create embeddings for movie plots and user queries
 
-cosine-similarity: to find similarities between films or user query-films
+• cosine-similarity: to find similarities between films or user query-films
 
-streamlit: web app and deployment
+• streamlit: web app and deployment
 
-pickle with xz compression: to store embeddings in very low size
+• pickle with xz compression: to store embeddings in very low size
