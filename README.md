@@ -2,6 +2,7 @@
 Discover the best movies from the IMDB Top 250 list with advanced semantic search engine and movie recommender. Simply enter a keyword, phrase, or even plot. It provides you with a personalized selection of top-rated films!
 
 **App demo:** https://huggingface.co/spaces/remzicam/movie_search_engine
+
 App video: 
 
 ## Business Problem
@@ -13,8 +14,9 @@ imdb top 250 movies
 ## Tools Used
 
 sentence-transformers: to create embeddings for movie plots and user queries
+
 cosine-similarity: to find similarities between films or user query-films
+
 streamlit: web app and deployment
+
 pickle with xz compression: to store embeddings in very low size
-
-
