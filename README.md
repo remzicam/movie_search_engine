@@ -3,7 +3,7 @@ Discover the best movies from the IMDB Top 250 list with advanced semantic searc
 
 **App demo:** https://huggingface.co/spaces/remzicam/movie_search_engine
 
-App video: 
+** App video: ** https://www.youtube.com/watch?v=G8DyaUfXeBg
 
 ## Business Problem
 Users face difficulties in finding high-quality films that align with their interests among the vast number of movies available. Additionally, users may not have the time or resources to thoroughly research and compare different films in order to make informed decisions about what to watch. Within this app's advanced semantic search engine and personalized movie recommendations could help users discover the best movies from the IMDB Top 250 list more efficiently and effectively, saving them time and effort in finding films to watch.
